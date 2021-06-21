@@ -5,7 +5,7 @@ O objetivo é realizar uma análise exploratória de dados da base "GoodReads 10
 
 ## Grupo:
 * Amanda de Mendonça Perez
-* Douglas
+* Douglas Arthur Almeida Hancock
 * Luigi Von Blücher Mezzogori
 * Pablo
 
