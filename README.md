@@ -1,6 +1,6 @@
 # A2 - Introdução à Ciência de Dados
 
-Trabalho realizado para a A2 do curso de Introdução à Ciência de Dados da Fundação Getúlio Vargas (FGV).
+Trabalho realizado para a A2 do curso de Introdução à Ciência de Dados, na Fundação Getúlio Vargas (FGV - Rio).
 O objetivo é realizar uma análise exploratória de dados da base "GoodReads 100k books", disponível em: <https://www.kaggle.com/mdhamani/goodreads-books-100k>.
 
 ## Grupo:
