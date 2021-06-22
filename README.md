@@ -7,7 +7,7 @@ O objetivo é realizar uma análise exploratória de dados da base "GoodReads 10
 * Amanda de Mendonça Perez
 * Douglas Arthur Almeida Hancock
 * Luigi Von Blücher Mezzogori
-* Pablo
+* Pablo Julliano Gomes Fontenelle
 
 ## Questões de Pesquisa: 
 * Quais os gêneros melhor avaliados? 
