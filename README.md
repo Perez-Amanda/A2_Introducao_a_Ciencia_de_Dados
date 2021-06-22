@@ -15,3 +15,5 @@ O objetivo é realizar uma análise exploratória de dados da base "GoodReads 10
 * Quais as características dos livros mais populares (com mais avaliações)? 
 * A popularidade de um livro se reflete no quão bem ele é avaliado?
 
+## O.B.S.:
+Não foi possível inserir a base de dados no repositório, já que o arquivo é muito pesado. Contudo, ela pode ser acessa pelo link apresentado.
